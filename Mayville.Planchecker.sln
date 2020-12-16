@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mayville.Planchecker", "Mayville.Planchecker.csproj", "{4DC7655E-AB28-47FF-9998-9C89EA74A09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Debug|x64.ActiveCfg = Debug|x64
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Debug|x64.Build.0 = Debug|x64
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Release|x64.ActiveCfg = Release|x64
+		{4DC7655E-AB28-47FF-9998-9C89EA74A09E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFB8AD4-C3F8-486A-B613-403C5657FE15}
+	EndGlobalSection
+EndGlobal

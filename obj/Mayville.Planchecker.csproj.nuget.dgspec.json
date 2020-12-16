@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cwalker\\source\\repos\\Mayville.Planchecker\\Mayville.Planchecker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cwalker\\source\\repos\\Mayville.Planchecker\\Mayville.Planchecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cwalker\\source\\repos\\Mayville.Planchecker\\Mayville.Planchecker.csproj",
+        "projectName": "Mayville.Planchecker",
+        "projectPath": "C:\\Users\\cwalker\\source\\repos\\Mayville.Planchecker\\Mayville.Planchecker.csproj",
+        "packagesPath": "C:\\Users\\cwalker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cwalker\\source\\repos\\Mayville.Planchecker\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\cwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "ESAPIX_15.5": {
+              "target": "Package",
+              "version": "[1.5.3.11, )"
+            },
+            "Prism.Ninject": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
